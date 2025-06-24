@@ -1,0 +1,220 @@
+# depslib dependency file v1.0
+1750352391 source:c:\users\tatu\desktop\enfrendados\proyectotpi\funciones.cpp
+	<iostream>
+	"funciones.h"
+
+1750352293 c:\users\tatu\desktop\enfrendados\proyectotpi\funciones.h
+
+1750366265 source:c:\users\tatu\desktop\enfrendados\proyectotpi\juego.cpp
+	<iostream>
+	"dados.h"
+
+1750366044 c:\users\tatu\desktop\enfrendados\proyectotpi\dados.h
+
+1750366928 source:c:\users\tatu\desktop\enfrendados\proyectotpi\main.cpp
+	<iostream>
+	<ctime>
+	"menu.h"
+	"juego.h"
+	"dados.h"
+
+1750366046 c:\users\tatu\desktop\enfrendados\proyectotpi\menu.h
+
+1750366032 c:\users\tatu\desktop\enfrendados\proyectotpi\juego.h
+
+1750366966 source:c:\users\tatu\desktop\enfrendados\proyectotpi\menu.cpp
+	<iostream>
+	<cstdlib>
+
+1750366744 source:c:\users\tatu\desktop\enfrendados\proyectotpi\dados.cpp
+	<iostream>
+
+1750613603 source:e:\progra\tpi-programacion-main\proyectotpi\dados.cpp
+	<iostream>
+
+1750634975 source:e:\progra\tpi-programacion-main\proyectotpi\juego.cpp
+	<iostream>
+	<cstdlib>
+	"dados.h"
+	"juego.h"
+
+1750613603 e:\progra\tpi-programacion-main\proyectotpi\dados.h
+
+1750634937 source:e:\progra\tpi-programacion-main\proyectotpi\main.cpp
+	<iostream>
+	<ctime>
+	<cstring>
+	<cstdlib>
+	"menu.h"
+	"juego.h"
+	"dados.h"
+	"tirar.h"
+	"rlutil.h"
+
+1750367218 e:\progra\tpi-programacion-main\proyectotpi\menu.h
+
+1750634924 e:\progra\tpi-programacion-main\proyectotpi\juego.h
+	<cstdlib>
+
+1750367218 source:e:\progra\tpi-programacion-main\proyectotpi\menu.cpp
+	<iostream>
+	<cstdlib>
+
+1750634650 e:\progra\tpi-programacion-main\proyectotpi\tiradainicial.h
+
+1750633847 source:e:\progra\tpi-programacion-main\proyectotpi\tiradainicial.cpp
+	<iostream>
+	<cstdlib>
+	"dados.h"
+	"Limpiar.h"
+
+1750633805 source:e:\progra\tpi-programacion-main\proyectotpi\limpiar.cpp
+	<iostream>
+	<cstdlib>
+
+1750634050 e:\progra\tpi-programacion-main\proyectotpi\limpiar.h
+
+1750616922 source:e:\progra\tpi-programacion-main\proyectotpi\tiradadados.cpp
+	<iostream>
+	<cstdlib>
+	"dados.h"
+	"tiradainicial.h"
+	"Limpiar.h"
+	"rlutil.h"
+
+1750616629 e:\progra\tpi-programacion-main\proyectotpi\tiradadados.h
+
+1750634559 e:\progra\tpi-programacion-main\proyectotpi\ronda1.h
+
+1750560897 source:e:\progra\tpi-programacion-main\proyectotpi\primeraronda.cpp
+	<iostream>
+	<cstdlib>
+	"tiradainicial.h"
+	"TiradaDados.h"
+	"dados.h"
+
+1750463240 e:\progra\tpi-programacion-main\proyectotpi\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1750562620 source:e:\progra\tpi-programacion-main\proyectotpi\pasardados.cpp
+	<iostream>
+
+1750634438 source:e:\progra\tpi-programacion-main\proyectotpi\ronda1.cpp
+	<iostream>
+	<cstdlib>
+	"tiradainicial.h"
+	"tirar.h"
+	"dados.h"
+	"ronda1.h"
+
+1750634870 source:e:\progra\tpi-programacion-main\proyectotpi\tirar.cpp
+	<iostream>
+	<cstdlib>
+	"dados.h"
+	"tirar.h"
+	"rlutil.h"
+
+1750634646 e:\progra\tpi-programacion-main\proyectotpi\tirar.h
+	<cstdlib>
+
+1750613603 source:c:\users\tatu\desktop\proyectotpi\dados.cpp
+	<iostream>
+
+1750708381 source:c:\users\tatu\desktop\proyectotpi\juego.cpp
+	<iostream>
+	<cstdlib>
+	"dados.h"
+	"juego.h"
+
+1750613603 c:\users\tatu\desktop\proyectotpi\dados.h
+
+1750708239 c:\users\tatu\desktop\proyectotpi\juego.h
+	<cstdlib>
+
+1750701569 source:c:\users\tatu\desktop\proyectotpi\main.cpp
+	<iostream>
+	<ctime>
+	<cstring>
+	<cstdlib>
+	"menu.h"
+	"juego.h"
+	"dados.h"
+	"rlutil.h"
+
+1750367218 c:\users\tatu\desktop\proyectotpi\menu.h
+
+1750463240 c:\users\tatu\desktop\proyectotpi\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1750702712 source:c:\users\tatu\desktop\proyectotpi\menu.cpp
+	<iostream>
+	<cstdlib>
+
+1750613603 source:c:\users\usuario\downloads\proyectotpi\dados.cpp
+	<iostream>
+
+1750800364 source:c:\users\usuario\downloads\proyectotpi\juego.cpp
+	<iostream>
+	<cstdlib>
+	"dados.h"
+	"juego.h"
+
+1750613603 c:\users\usuario\downloads\proyectotpi\dados.h
+
+1750800307 c:\users\usuario\downloads\proyectotpi\juego.h
+	<cstdlib>
+
+1750701569 source:c:\users\usuario\downloads\proyectotpi\main.cpp
+	<iostream>
+	<ctime>
+	<cstring>
+	<cstdlib>
+	"menu.h"
+	"juego.h"
+	"dados.h"
+	"rlutil.h"
+
+1750367218 c:\users\usuario\downloads\proyectotpi\menu.h
+
+1750463240 c:\users\usuario\downloads\proyectotpi\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1750702712 source:c:\users\usuario\downloads\proyectotpi\menu.cpp
+	<iostream>
+	<cstdlib>
+
+1750797572 source:c:\users\usuario\downloads\proyectotpi\funciones.cpp
+
